@@ -1,0 +1,13 @@
+{
+   "depends" : [],
+   "description" : "Literate programming (à la Haskell) in Perl 6",
+   "name" : "Perl6::Literate",
+   "provides" : {
+      "Perl6::Literate" : "lib/Perl6/Literate.pm"
+   },
+   "support" : {
+      "source" : "git://github.com/masak/perl6-literate.git"
+   },
+   "version" : "0.000.001",
+   "version_from_original_meta" : "*"
+}
